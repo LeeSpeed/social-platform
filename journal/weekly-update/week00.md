@@ -23,7 +23,13 @@ tasks:
       cd $THEIA_WORKSPACE_ROOT
 ```
 ## Set AWS Budgets
-
+### Budgets
 I also set budgets for both dollar spend and credits spend on AWS
 
 ![AWS Budgets](../assets/week00/aws-budgets.png)
+
+### Alerts
+I created a Billing Alert in the North Virginia region, this was based on advice regarding which regions contain which alerts.
+
+![Created a billing alert](../assets/week00/aws-billing-alert-north-virginia.png)
+![The SNS billing alert](../assets/week00/aws-sns-billing-alert.png)
