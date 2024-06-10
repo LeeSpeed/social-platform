@@ -6,7 +6,7 @@
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
-![AWS CLI on Windows Desktop](../assets/aws-cli-windows-install.png)
+![AWS CLI on Windows Desktop](../assets/week00/aws-cli-windows-install.png)
 
 ### GitPod Install
 Updated `.gitpod.yml` with the following code:
