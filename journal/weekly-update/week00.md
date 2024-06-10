@@ -22,4 +22,8 @@ tasks:
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
 ```
+## Set AWS Budgets
 
+I also set budgets for both dollar spend and credits spend on AWS
+
+![AWS Budgets](../assets/week00/aws-budgets.png)
