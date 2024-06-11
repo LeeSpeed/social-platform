@@ -55,7 +55,7 @@ CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]
 
 ### Build Container
 
-Ensure you're in the root file before running the below command. For me, ./social-platform/
+Ensure you're in the root directory before running the below command. For me, it will be: ./social-platform/
 
 ```sh
 docker build -t  backend-flask ./backend-flask
